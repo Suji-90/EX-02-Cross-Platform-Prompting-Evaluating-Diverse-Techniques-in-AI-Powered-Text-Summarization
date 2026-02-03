@@ -19,7 +19,40 @@ Speed
 User experience
 
 ## Algorithm
+Select a 500-word technical article on Blockchain Technology.
+
+Choose AI platforms: ChatGPT, Gemini, Claude, and Copilot.
+
+Apply different prompting techniques:
+
+Zero-shot prompting
+
+Few-shot prompting
+
+Chain-of-thought prompting
+
+Role-based prompting
+
+Provide the same input text to each platform using each prompt type.
+
+Generate summaries from all platform–prompt combinations.
+
+Evaluate summaries based on:
+
+Accuracy
+
+Coherence
+
+Simplicity
+
+Speed
+
+User experience
+
+Compare outputs and identify the best performing combination.
 
 ## Result
-
+The experiment showed that role-based and few-shot prompting produced the most accurate and student-friendly summaries.
+ChatGPT and Claude delivered better clarity and coherence, while Gemini showed faster response time.
+Overall, role-based prompting with ChatGPT provided the best balance of accuracy, simplicity, and user experience for undergraduate learners.
 
